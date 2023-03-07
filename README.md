@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **projects using Nodejs, Typescript and Python.**
 
-- 🌱 I’m currently learning **Ruby for new projects.**
+- 🌱 I’m always learning **interesting stuff.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
