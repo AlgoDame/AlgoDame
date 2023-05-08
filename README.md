@@ -41,7 +41,8 @@
                 <img alt="Visual-Studio-Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
                 
 </p>
-<h3 align="left">My latest Dev articles</h3>
+
+## My latest DEV articles
 <!-- BLOG-POST-LIST:START -->
 - [Implementing SMS-enabled Two-Factor Authentication using NestJS, Twilio and Prisma](https://dev.to/algodame/implementing-sms-enabled-two-factor-authentication-using-nestjs-twilio-and-prisma-52p)
 - [Git Hooks: The Powerful Tool You&#39;re Probably Not Using &lpar;But Should Be&rpar;](https://dev.to/algodame/git-hooks-the-powerful-tool-youre-probably-not-using-but-should-be-1lec)
@@ -49,6 +50,6 @@
 - [How to Subscribe to and Receive Push Notifications from YouTube’s API using Typescript and Nodejs](https://dev.to/algodame/how-to-subscribe-to-and-receive-push-notifications-from-youtubes-api-using-typescript-and-nodejs-2gik)
 <!-- BLOG-POST-LIST:END -->
 
-</br>
+<br/>
 
 
