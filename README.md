@@ -41,7 +41,7 @@
                 <img alt="Visual-Studio-Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
                 
 </p>
-My latest Dev articles
+<h3 align="left">My latest Dev articles</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
