@@ -44,10 +44,10 @@
 
 ## My latest DEV articles
 <!-- BLOG-POST-LIST:START -->
+- [Simplify Your Microservice Debugging Workflow with an Automated Startup Script](https://dev.to/algodame/simplify-your-microservice-debugging-workflow-with-an-automated-startup-script-1paf)
 - [Implementing SMS-enabled Two-Factor Authentication using NestJS, Twilio and Prisma](https://dev.to/algodame/implementing-sms-enabled-two-factor-authentication-using-nestjs-twilio-and-prisma-52p)
 - [Git Hooks: The Powerful Tool You&#39;re Probably Not Using &lpar;But Should Be&rpar;](https://dev.to/algodame/git-hooks-the-powerful-tool-youre-probably-not-using-but-should-be-1lec)
 - [Implementing Joins in MongoDB using the $lookup operator](https://dev.to/algodame/implementing-joins-in-mongodb-using-the-lookup-operator-5gjf)
-- [How to Subscribe to and Receive Push Notifications from YouTube’s API using Typescript and Nodejs](https://dev.to/algodame/how-to-subscribe-to-and-receive-push-notifications-from-youtubes-api-using-typescript-and-nodejs-2gik)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
