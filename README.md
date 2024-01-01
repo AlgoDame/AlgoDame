@@ -51,6 +51,9 @@
 - [Implementing Joins in MongoDB using the $lookup operator](https://dev.to/algodame/implementing-joins-in-mongodb-using-the-lookup-operator-5gjf)
 <!-- BLOG-POST-LIST:END -->
 
+## Technical writing portfolio
+- [My portfolio](https://msha.ke/chiamakaojiyi)
+
 <br/>
 
 
